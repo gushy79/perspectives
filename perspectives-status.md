@@ -2,7 +2,7 @@
 
 **Project:** Perspective Pieces - Thought Leadership Content
 **Phase:** Planning - Series 1 (3 pieces)
-**Last updated:** 2026-01-08
+**Last updated:** 2026-01-08 (evening session)
 
 ## Purpose
 
@@ -22,6 +22,11 @@ Create thought leadership content demonstrating architectural expertise, philoso
   - Renamed and moved to personal agents: `~/.claude/agents/content-critic.md`
   - Updated scope: Reviews any written content (perspectives, blogs, docs, proposals)
   - Same Amazon loop process (3 personas review independently, then discuss)
+- **README.md created and published (2026-01-08 evening)** - Public GitHub repository documentation
+  - Professional overview for github.com/gushy79/perspectives
+  - Series 1 topics listed, Series 2 kept private (flexible future direction)
+  - Company names anonymised (autonomous vehicle scale-up)
+  - "Launching soon" status (honest pre-publication messaging)
 
 ## Current State
 
@@ -111,6 +116,7 @@ Three pieces to be written, then Perspectives section implemented on website.
 - **Agent roles clarified:** exec-recruiter for CV/LinkedIn/hiring appeal; architecture-peer for technical credibility/peer respect; personal-marketeer for brand strategy
 - **Content backlog strategy:** Build 12-20 topic ideas for sustainable 1/month cadence; regular review to stay current with trends
 - **LinkedIn habit building:** Use perspectives as foundation for consistent LinkedIn presence (not currently posting)
+- **README.md strategy (2026-01-08):** Keep Series 2 private in backlog only; avoid signposting future direction that might change; anonymise company names; use "Launching soon" until content published
 
 ## Content Backlog Strategy
 
