@@ -2,13 +2,13 @@
 
 Thought leadership content on enterprise architecture, technology strategy, and organisational capability.
 
-**Published at:** [nickgushlow.com/perspectives](https://nickgushlow.com/perspectives)
+**Launching soon at:** [nickgushlow.com/perspectives](https://nickgushlow.com/perspectives)
 
 ---
 
 ## About
 
-This repository contains perspective pieces exploring practical approaches to enterprise architecture challenges. Each piece draws on 20+ years of experience building architecture functions, modernising legacy systems, and driving technology strategy across startups, scale-ups, and enterprises.
+This repository contains perspective pieces exploring practical approaches to enterprise architecture challenges.
 
 **Target audience:**
 - Enterprise and Solution Architects seeking practical insights
@@ -28,11 +28,6 @@ This repository contains perspective pieces exploring practical approaches to en
 2. **Building Architecture Functions from Scratch** - Organisational capability development
 3. **Architecture as a Product** - Stakeholder-centric strategic thinking
 
-### Series 2: Emerging Trends
-- Age of Intent - AI/LLM effects on system interaction and data architecture
-- AI as the Consumer - Designing for machine-first interaction patterns
-- Legacy Modernisation Patterns - Strategic approaches to technical debt
-
 ---
 
 ## Format
@@ -50,7 +45,7 @@ Each piece follows a consistent structure:
 
 **Nick Gushlow** is an Enterprise Architect and technology leader with 20+ years of experience spanning startups, scale-ups, and enterprises. Career highlights include:
 
-- Built architecture function from scratch at Oxa (autonomous vehicle scale-up)
+- Built architecture function from scratch at an autonomous vehicle scale-up
 - Led technical modernisation programmes across multiple organisations
 - Designed and implemented architecture governance frameworks
 - Scaled engineering teams through periods of rapid growth
